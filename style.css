@@ -1,0 +1,122 @@
+ul{
+  list-style-type:none;
+  overflow: hidden;
+}
+
+li{
+  display:inline-block;
+  padding-right:20px;
+  color:#3C3C3C;
+}
+
+*{
+  font-family: 'Helvetica';
+}
+
+.NavbarSignup{
+  padding:10px;
+  float:right;
+}
+.NavbarLogin{
+  padding:10px;
+  float:right;
+}
+
+li{
+  font-weight:bolder;
+}
+p{
+  font: weight 100px;
+  color:#3C3C3C;
+  font-size: 30px;
+}
+button{
+  background-color: #8EE5D1;
+  border-radius: 30px;
+  padding: 20px 40px;
+  border:none;
+  font-size:20px;
+  font-weight: bold;
+  color:#3C3C3C;
+}
+
+img{
+  float:right;
+  height:500px;
+  width:700px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+.FirstSection{
+  background-color:#F4F7FA;
+  clear: right;
+  width: 100%;
+  height: 250px;
+  text-align:center;
+
+}
+
+input{
+  margin-top:80px;
+  height:60px;
+  width:500px;
+  border-radius: 10px;
+  border:solid lightgray 2px;
+  text-align:center;
+}
+
+.BookDemo{
+margin:60px;
+border-radius: 10px;
+margin-left:10px;
+margin-top: 10px;
+
+height:65px;
+
+
+}
+
+.Choose{
+  text-align: center;
+}
+
+.main{
+  display:flex;
+
+}
+
+.one,.two,.three{
+  background-color:#F4F7FA;
+  margin:10px;
+  clear: right;
+  width: 100%;
+  height: 450px;
+  text-align:center;
+
+}
+.Footer{
+  background-color:#F4F7FA;
+  clear: right;
+  width: 100%;
+  height: 200px;
+
+
+}
+section{
+  color:#3C3C3C;
+}
+
+.one h1,.two h1,.three h1
+{
+  font-size:60px;
+  color:#8EE5D1;
+  text-align:left;
+  margin:20px;
+}
+
+.three {
+  font-weight:bold;
+}
